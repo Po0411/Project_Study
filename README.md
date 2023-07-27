@@ -15,7 +15,7 @@
 2. 현재 언어는 [ C, C++, C#, JAVA, JS, TS , Python, Kotlin, ASM ]
 <div class="badge-container">
   <img class="badge" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C 뱃지">
-  <img class="badge" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C 뱃지">
+  <img class="badge" src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=C++&logoColor=white" alt="C 뱃지">
 </div>
 
 ## 함께 하는 사람들
