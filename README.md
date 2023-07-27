@@ -13,6 +13,6 @@
 
 1. 각 언어를 누구나 배울 수 있게 정리 하기.
 2. 현재 언어는 [ C, C++, C#, JAVA, JS, TS , Python, Kotlin, ASM ]
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/#A8B9CC?style=flat&logo=로고이름&logoColor=white"/>
 
 ## 함께 하는 사람들
