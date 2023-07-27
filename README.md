@@ -15,5 +15,6 @@
 2. 현재 언어는 [ C, C++, C#, JAVA, JS, TS , Python, Kotlin, ASM ]
 <br>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 
 ## 함께 하는 사람들
