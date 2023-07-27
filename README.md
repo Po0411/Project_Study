@@ -37,7 +37,7 @@
 <head>
   <title>GitHub 리드미 둥근 모서리 배경 색상</title>
 </head>
-<body style="background-color: #f0f0f0; border-radius: 20px;">
+<body style="background-color: #3A2F0B; border-radius: 20px;">
   <div style="padding: 20px;">
     안녕하세요
   </div>
