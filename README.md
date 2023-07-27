@@ -37,7 +37,7 @@
 <head>
   <style>
     body {
-      background-color: #f0f0f0; /* 배경 색상을 원하는 색상 코드로 설정 */
+      background-color: #ba6666;
       border-radius: 20px;
       padding: 20px;
     }
