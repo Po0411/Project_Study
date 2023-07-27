@@ -44,7 +44,7 @@
 </head>
 <body>
   <div class="content">
-    <!-- 리드미 내용을 이곳에 작성 -->
+    <h1>안녕하세요</h1>
   </div>
 </body>
 </html>
