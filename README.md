@@ -14,9 +14,10 @@
 1. 각 언어를 누구나 배울 수 있게 정리 하기.
 2. 현재 언어는 [ C, C++, C#, JAVA, JS, TS , Python, Kotlin, ASM ]
 <div class="badge-container">
-  <img class="badge" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img class="badge" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img class="badge" src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img class="badge" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C 뱃지">
+  <img class="badge" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ 뱃지">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# 뱃지">
+
 </div>
 
 ## 함께 하는 사람들
