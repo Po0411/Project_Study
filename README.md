@@ -26,5 +26,5 @@
 </div>
 
 ## 함께 하는 사람들
-[alld](https://github.com/alld) [annayas](https://github.com/annayas)
+[@alld](https://github.com/alld) [@annayas](https://github.com/annayas)
 
