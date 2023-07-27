@@ -35,11 +35,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>GitHub 리드미 둥근 모서리 배경 색상</title>
+  <style>
+    body {
+      background-color: #f0f0f0; /* 배경 색상을 원하는 색상 코드로 설정 */
+      border-radius: 20px;
+      padding: 20px;
+    }
+  </style>
 </head>
-<body style="background-color: #3A2F0B; border-radius: 20px;">
-  <div style="padding: 20px;">
-    안녕하세요
-  </div>
+<body>
+  안녕하세요
 </body>
 </html>
