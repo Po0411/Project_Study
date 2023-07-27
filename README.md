@@ -28,3 +28,23 @@
 ## 함께 하는 사람들
 [@alld](https://github.com/alld), [@annayas](https://github.com/annayas), [@Philo0411](https://github.com/Philo0411)
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GitHub 리드미 배경 색상</title>
+  <style>
+    body {
+      background-color: #f0f0f0; /* 배경 색상을 원하는 색상 코드로 설정 */
+    }
+
+    .content {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <!-- 리드미 내용을 이곳에 작성 -->
+  </div>
+</body>
+</html>
