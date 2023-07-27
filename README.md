@@ -31,19 +31,3 @@
 ## 함께 하는 사람들
 [@alld](https://github.com/alld), [@annayas](https://github.com/annayas), [@Philo0411](https://github.com/Philo0411)
 
-
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-color: #ba6666;
-      border-radius: 20px;
-      padding: 20px;
-    }
-  </style>
-</head>
-<body>
-  안녕하세요
-</body>
-</html>
