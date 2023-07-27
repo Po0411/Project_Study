@@ -44,7 +44,7 @@
 </head>
 <body>
   <div class="content">
-    <h1>안녕하세요</h1>
+    안녕하세요
   </div>
 </body>
 </html>
