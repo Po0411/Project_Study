@@ -30,3 +30,16 @@
 
 ## 함께 하는 사람들
 [@alld](https://github.com/alld), [@annayas](https://github.com/annayas), [@Philo0411](https://github.com/Philo0411)
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GitHub 리드미 둥근 모서리 배경 색상</title>
+</head>
+<body style="background-color: #f0f0f0; border-radius: 20px;">
+  <div style="padding: 20px;">
+    안녕하세요
+  </div>
+</body>
+</html>
