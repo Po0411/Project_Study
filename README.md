@@ -16,7 +16,7 @@
 <div class="badge-container">
   <img class="badge" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img class="badge" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img class="badge" src="https://img.shields.io/badge/C#-#239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img class="badge" src="https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=csharp&logoColor=white">
 </div>
 
 ## 함께 하는 사람들
