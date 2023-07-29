@@ -31,4 +31,5 @@
 ## 함께 하는 사람들
 [@alld](https://github.com/alld), [@annayas](https://github.com/annayas), [@Po0411](https://github.com/Po0411)
 
-## 추가....
+## 담당 언어
+> [@alld](https://github.com/alld)
