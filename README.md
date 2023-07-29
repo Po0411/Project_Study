@@ -33,7 +33,7 @@
 
 ## 담당 언어
 >   [@alld](https://github.com/alld)
-
+>><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 뱃지">
 ---
 >   [@annayas](https://github.com/annayas)
 >><img class="badge" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C 뱃지"> <img class="badge" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ 뱃지"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# 뱃지">
