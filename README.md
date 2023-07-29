@@ -36,7 +36,7 @@
 
 ---
 >   [@annayas](https://github.com/annayas)
-
+>><img class="badge" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C 뱃지"> <img class="badge" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ 뱃지"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# 뱃지">
 ---
 >   [@Po0411](https://github.com/Po0411)
 >><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 뱃지"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin 뱃지">
