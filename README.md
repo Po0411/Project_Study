@@ -32,4 +32,10 @@
 [@alld](https://github.com/alld), [@annayas](https://github.com/annayas), [@Po0411](https://github.com/Po0411)
 
 ## 담당 언어
-> [@alld](https://github.com/alld)
+  > [@alld](https://github.com/alld)
+
+---
+  > [@alld](https://github.com/alld)
+
+---
+  > [@Po0411](https://github.com/Po0411)
