@@ -41,3 +41,5 @@ print("=" * 10)
 name = input("당신의 이름은? ")
 print("반가워," + name + "!")
 print("=" * 10)
+
+#오류, 오타가 있으면 wawa111027@gmail.com로 문의 해주세요
