@@ -4,14 +4,9 @@
   -목차_2 : 자료형을 사용하여 결과를 확인하기 / [2.Data_Types.py](https://github.com/Po0411/Project_Study/blob/main/%EC%96%B8%EC%96%B4/Python/2.Data_Types.py)
   <br>
   -목차_3 : 제어문을 사용하여 결과를 확인하기 / [2.Data_Types.py](https://github.com/Po0411/Project_Study/blob/main/%EC%96%B8%EC%96%B4/Python/2.Data_Types.py)
-  |관계연산자 기호|코드 사용|결과|
-  |------|---|
-  |> 크다|if|10 > 20:|False|
-  |< 작다|if|10 < 20:|True|
-  |>= 크거나 같다|if 10 >= 20:|False|
 
-|제목|내용|설명|
+|관계연산자 기호|코드 사용|결과|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|> 크다|if|10 > 20:|False|
+|< 작다|if|10 < 20:|True|
+|>= 크거나 같다|if 10 >= 20:|False|
