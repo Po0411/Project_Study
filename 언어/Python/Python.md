@@ -2,3 +2,10 @@
   -목차_1 : 여러 가지 출력을 하면서 결과를 확인하기 / [Hello World.py](https://github.com/Po0411/Project_Study/blob/main/%EC%96%B8%EC%96%B4/Python/1.Hello_World.py)
   <br>
   -목차_2 : 자료형을 사용하여 결과를 확인하기 / [2.Data_Types.py](https://github.com/Po0411/Project_Study/blob/main/%EC%96%B8%EC%96%B4/Python/2.Data_Types.py)
+  <br>
+  -목차_3 : 제어문을 사용하여 결과를 확인하기 / [2.Data_Types.py](https://github.com/Po0411/Project_Study/blob/main/%EC%96%B8%EC%96%B4/Python/2.Data_Types.py)
+  |관계연산자 기호|코드 사용|결과|
+  |------|---|
+  |> 크다|if|10 > 20:|False|
+  |< 작다|if|10 < 20:|True|
+  |>= 크거나 같다|if 10 >= 20:|False|
