@@ -12,3 +12,15 @@ else:
 
 #위 코드에서 ">" 무슨 뜻일까요? 바로 관계 연산자 입니다. 
 #관계연산자 설명은 "https://github.com/Po0411/Project_Study/blob/main/%EC%96%B8%EC%96%B4/Python/Python.md"링크로 가서 확인해 주세요.
+
+#위 링크를 확인 하시고 오면 조건이랑 결과를 확인 할 수 있습니다 그러면 정말 그 결과가 맞는지 확인해 보겠습니다.
+
+#참(True) / 거짓(False) 확인
+print(10>20)
+print(10<20)
+print(10>=20)
+print(10<=20)
+print(10==20)
+print(10!=20)
+
+#결과를 보시면 참(True) / 거짓(False) 이 잘 출력이 되는 걸 확인 할 수 있습니다.
